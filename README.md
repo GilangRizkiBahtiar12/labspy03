@@ -6,7 +6,7 @@
 
 
 ## Hasil program
-![gambar2](scranshot/ss_latihan1_2.PNG)
+![gambar2](screanshot/ss_latihan1_2.PNG)
 
 
 # Latihan2
@@ -24,4 +24,4 @@
 
 
 ## Hasil program
-![gambar6](screanshot/ss_program2_2.PNG)
+![gambar6](screanshot/ss_program1_2.PNG)
